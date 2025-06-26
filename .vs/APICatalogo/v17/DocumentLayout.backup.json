@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Github\\APICatalogo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D2A16941-5D26-4E43-813F-92311C94BD53}|APICatalogo\\APICatalogo.csproj|c:\\github\\apicatalogo\\apicatalogo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2A16941-5D26-4E43-813F-92311C94BD53}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D2A16941-5D26-4E43-813F-92311C94BD53}|APICatalogo\\APICatalogo.csproj|c:\\github\\apicatalogo\\apicatalogo\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A16941-5D26-4E43-813F-92311C94BD53}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2A16941-5D26-4E43-813F-92311C94BD53}|APICatalogo\\APICatalogo.csproj|c:\\github\\apicatalogo\\apicatalogo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D2A16941-5D26-4E43-813F-92311C94BD53}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D2A16941-5D26-4E43-813F-92311C94BD53}|APICatalogo\\APICatalogo.csproj|c:\\github\\apicatalogo\\apicatalogo\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A16941-5D26-4E43-813F-92311C94BD53}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2A16941-5D26-4E43-813F-92311C94BD53}|APICatalogo\\APICatalogo.csproj|c:\\github\\apicatalogo\\apicatalogo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D2A16941-5D26-4E43-813F-92311C94BD53}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{D2A16941-5D26-4E43-813F-92311C94BD53}|APICatalogo\\APICatalogo.csproj|c:\\github\\apicatalogo\\apicatalogo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2A16941-5D26-4E43-813F-92311C94BD53}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A16941-5D26-4E43-813F-92311C94BD53}|APICatalogo\\APICatalogo.csproj|c:\\github\\apicatalogo\\apicatalogo\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A16941-5D26-4E43-813F-92311C94BD53}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2A16941-5D26-4E43-813F-92311C94BD53}|APICatalogo\\APICatalogo.csproj|c:\\github\\apicatalogo\\apicatalogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2A16941-5D26-4E43-813F-92311C94BD53}|APICatalogo\\APICatalogo.csproj|solutionrelative:apicatalogo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +38,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Github\\APICatalogo\\APICatalogo\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "APICatalogo\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Github\\APICatalogo\\APICatalogo\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "APICatalogo\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABuAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Github\\APICatalogo\\APICatalogo\\Program.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Program.cs",
+              "ToolTip": "C:\\Github\\APICatalogo\\APICatalogo\\Program.cs",
+              "RelativeToolTip": "APICatalogo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T18:38:59.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Github\\APICatalogo\\APICatalogo\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "APICatalogo\\WeatherForecast.cs",
-              "ToolTip": "C:\\Github\\APICatalogo\\APICatalogo\\WeatherForecast.cs",
-              "RelativeToolTip": "APICatalogo\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T18:38:54.57Z",
+              "WhenOpened": "2025-06-26T00:21:56.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Github\\APICatalogo\\APICatalogo\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "APICatalogo\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Github\\APICatalogo\\APICatalogo\\Properties\\launchSettings.json",
-              "RelativeToolTip": "APICatalogo\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Github\\APICatalogo\\APICatalogo\\appsettings.json",
+              "RelativeDocumentMoniker": "APICatalogo\\appsettings.json",
+              "ToolTip": "C:\\Github\\APICatalogo\\APICatalogo\\appsettings.json",
+              "RelativeToolTip": "APICatalogo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-22T18:36:49.115Z",
+              "WhenOpened": "2025-06-26T00:17:57.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Github\\APICatalogo\\APICatalogo\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Github\\APICatalogo\\APICatalogo\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "APICatalogo\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T00:09:55.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Github\\APICatalogo\\APICatalogo\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Models\\Produto.cs",
+              "ToolTip": "C:\\Github\\APICatalogo\\APICatalogo\\Models\\Produto.cs",
+              "RelativeToolTip": "APICatalogo\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T00:08:05.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Github\\APICatalogo\\APICatalogo\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "APICatalogo\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Github\\APICatalogo\\APICatalogo\\Models\\Categoria.cs",
+              "RelativeToolTip": "APICatalogo\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T00:05:29.859Z",
               "EditorCaption": ""
             }
           ]
